@@ -22,7 +22,7 @@ L'objectif de ce tableau de bord est de fournir une vue d'ensemble des effectifs
 
 ## Dataset
 
-Le dataset utilisé pour ce tableau de bord est également disponible dans le repository sous le nom `nom_du_dataset.csv`. Ce fichier contient les données nécessaires pour recréer le tableau de bord. 
+Le dataset utilisé pour ce tableau de bord est également disponible dans le repository sous le nom `HRDataset_v14.xlsx`. Ce fichier contient les données nécessaires pour recréer le tableau de bord. 
 
 > **Remarque** : Le fichier `.pbix` n'est pas inclus dans ce dépôt.
 
